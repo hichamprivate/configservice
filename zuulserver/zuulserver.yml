@@ -1,3 +1,4 @@
+example.property: "I AM IN THE DEFAULT from develop"
 zuul.ignored-services: '*'
 zuul.prefix: /api
 zuul.routes.organizationservice: /organization/**
